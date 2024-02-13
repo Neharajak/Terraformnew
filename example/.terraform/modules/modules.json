@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"machine","Source":"../gcp2.0/modules","Dir":"../gcp2.0/modules"},{"Key":"macine","Source":"../gcp2.0/modules/vms","Dir":"../gcp2.0/modules/vms"},{"Key":"test","Source":"../gcp2.0/modules","Dir":"../gcp2.0/modules"},{"Key":"vm","Source":"./modules/vm","Dir":""}]}
